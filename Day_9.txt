@@ -1,0 +1,9 @@
+📂 Day-9: Improve Frontend (Basic Styling)
+Code:
+
+Add Bootstrap CSS to index.html and edit.html.
+
+Make the buttons and forms look clean.
+
+Today, I added basic frontend styling using Bootstrap.
+This made my web app look cleaner and more user-friendly.

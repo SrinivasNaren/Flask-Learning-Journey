@@ -1,0 +1,8 @@
+📂 Day-8: Delete a Note
+Code:
+
+Create a delete route with note id.
+
+Delete the note from database.
+
+Today, I learned how to delete a specific note from the database using SQLAlchemy session delete.

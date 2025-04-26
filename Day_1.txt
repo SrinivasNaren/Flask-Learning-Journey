@@ -1,0 +1,10 @@
+	
+
+📂 Day-1: Setup Flask Project
+Code:
+
+Create a simple app.py with one route / showing "Hello, World!".
+
+
+Today, I installed Flask and created my first Flask app with one route.
+I ran it locally and saw "Hello, World!" on browser.		

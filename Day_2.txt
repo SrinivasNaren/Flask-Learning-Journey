@@ -1,0 +1,9 @@
+📂 Day-2: Connect Flask with HTML
+Code:
+
+Add a templates/index.html file.
+
+Use render_template in Flask to show HTML page.
+
+Today, I learned how Flask connects backend with frontend using templates.
+I used render_template to display index.html page.

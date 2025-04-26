@@ -1,0 +1,9 @@
+📂 Day-4: Create a Note Model
+Code:
+
+Create a Note model with id and content fields.
+
+Run db.create_all() to create database table.
+
+Today, I created a database table using a Python class (Model).
+I used db.Model and db.Column to define fields.

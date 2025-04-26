@@ -1,0 +1,8 @@
+📂 Day-5: Display Notes
+Code:
+
+Query all notes from database.
+
+Show them on index.html using Jinja2 for loop.
+
+Today, I learned how to fetch all data from database and display it in frontend using Jinja2 loop.

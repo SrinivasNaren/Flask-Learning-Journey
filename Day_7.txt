@@ -1,0 +1,9 @@
+📂 Day-7: Edit Existing Note
+Code:
+
+Create edit.html page.
+
+Fetch specific note by id, update it, and save.
+
+Today, I learned how to edit existing notes by using Flask routes with dynamic parameters.
+I used Note.query.get_or_404(id) to fetch the note.

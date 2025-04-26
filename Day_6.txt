@@ -1,0 +1,8 @@
+📂 Day-6: Add New Note (POST Method)
+Code:
+
+Create a form in index.html.
+
+Handle form submission in Flask using request.form.
+
+Today, I learned how to add a new note by taking input from a form and saving it to database.

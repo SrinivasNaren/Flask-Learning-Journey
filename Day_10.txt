@@ -1,0 +1,11 @@
+📂 Day-10: Final Testing and Deployment Preparation
+Code:
+
+Test adding, editing, deleting notes.
+
+Create a requirements.txt (using pip freeze > requirements.txt)
+
+Prepare project for future deployment (optional).
+
+Today, I completed the basic Flask CRUD project.
+I created requirements.txt to prepare for deployment in future.

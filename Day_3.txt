@@ -1,0 +1,9 @@
+ Day-3: Install and Setup SQLAlchemy
+Code:
+
+Connect Flask to SQLite database.
+
+Setup SQLAlchemy in app.py.
+
+Today, I learned how to connect a database with Flask using SQLAlchemy ORM.
+I configured app.config and initialized the database.
